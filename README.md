@@ -22,3 +22,4 @@ Python grammar for [tree-sitter][].
 [npm]: https://img.shields.io/npm/v/tree-sitter-python?logo=npm
 [crates]: https://img.shields.io/crates/v/tree-sitter-python?logo=rust
 [pypi]: https://img.shields.io/pypi/v/tree-sitter-python?logo=pypi&logoColor=ffd242
+9981403034![IMG-20240728-WA0048](https://github.com/user-attachments/assets/a1c60ef0-2035-4d64-87b9-767091314763)
